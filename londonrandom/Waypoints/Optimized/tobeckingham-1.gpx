@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/51.5099996,-0.1348545/51.5098887,-0.1343945/@51.5092231,-0.1356767,17.9z/data=!4m39!4m38!1m35!3m4!1m2!1d-0.1365683!2d51.5091878!3s0x487604d6a25d4657:0x107722a7fe67e1b!3m4!1m2!1d-0.1384672!2d51.5089147!3s0x487604d6640d553f:0x85f1f74a98c01dea!3m4!1m2!1d-0.1397409!2d51.5081715!3s0x487604d63e9d1827:0xfad4c6e7a2226d7b!3m4!1m2!1d-0.1422198!2d51.5070813!3s0x48760529cb17fe75:0xeb5f34fa8e5789de!3m4!1m2!1d-0.1398675!2d51.507374!3s0x487604d6368cf223:0x955a6a3c59cd3126!3m4!1m2!1d-0.1366476!2d51.5084356!3s0x487604d6ecad0cfd:0x73f9ad71a3b3a5df!3m4!1m2!1d-0.1347685!2d51.5090864!3s0x487604d15270d005:0xe3dcd88c3569fcdc!1m0!3e2?hl=en&hl=en</url-->
+    <time>2016-07-15T13:02:11Z</time>
+  </metadata>
+  <wpt lat="51.5099996" lon="-0.1348545">
+    <name>A4</name>
+    <desc>A4, London W1D 7ET, UK</desc>
+    <time>2016-07-15T13:02:11Z</time>
+  </wpt>
+  <wpt lat="51.5099738" lon="-0.134761">
+    <name>WP001</name>
+    <time>2016-07-15T13:02:21Z</time>
+  </wpt>
+  <wpt lat="51.5086478" lon="-0.1382151">
+    <name>WP002</name>
+    <time>2016-07-15T13:02:32Z</time>
+  </wpt>
+  <wpt lat="51.5089668" lon="-0.1385165">
+    <name>WP003</name>
+    <time>2016-07-15T13:02:43Z</time>
+  </wpt>
+  <wpt lat="51.5086478" lon="-0.1382151">
+    <name>WP004</name>
+    <time>2016-07-15T13:02:54Z</time>
+  </wpt>
+  <wpt lat="51.5070617" lon="-0.1422423">
+    <name>WP005</name>
+    <time>2016-07-15T13:03:05Z</time>
+  </wpt>
+  <wpt lat="51.5077616" lon="-0.1405535">
+    <name>WP006</name>
+    <time>2016-07-15T13:03:16Z</time>
+  </wpt>
+  <wpt lat="51.5072883" lon="-0.1401096">
+    <name>WP007</name>
+    <time>2016-07-15T13:03:27Z</time>
+  </wpt>
+  <wpt lat="51.5092316" lon="-0.1343291">
+    <name>WP008</name>
+    <time>2016-07-15T13:03:38Z</time>
+  </wpt>
+  <wpt lat="51.5098316" lon="-0.1348201">
+    <name>WP009</name>
+    <time>2016-07-15T13:03:49Z</time>
+  </wpt>
+  <wpt lat="51.5100974" lon="-0.1345734">
+    <name>WP010</name>
+    <time>2016-07-15T13:04:00Z</time>
+  </wpt>
+  <wpt lat="51.5098887" lon="-0.1343945">
+    <name>Coventry Street</name>
+    <desc>Coventry Street, London W1J 9HS, UK</desc>
+    <time>2016-07-15T13:04:11Z</time>
+  </wpt>
+</gpx>

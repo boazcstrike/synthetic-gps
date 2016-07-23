@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/51.510045,-0.1348671/51.4988769,-0.1446897/@51.5011119,-0.1449149,17.5z/data=!4m64!4m63!1m60!3m4!1m2!1d-0.135981!2d51.5086653!3s0x487604d6ba06ffa9:0xe933775e6be379dd!3m4!1m2!1d-0.1350292!2d51.5072879!3s0x487604d12b6f8e97:0xd72c8a01e5986060!3m4!1m2!1d-0.1390269!2d51.5084119!3s0x487604d669dd35fb:0x6c7e60549dec398e!3m4!1m2!1d-0.141333!2d51.5075423!3s0x48760529d79cf24f:0xd89a120ba44cebb8!3m4!1m2!1d-0.1388928!2d51.5061014!3s0x487604d7bbce8e33:0x2df937c133383c73!3m4!1m2!1d-0.1383577!2d51.5048428!3s0x487604d783187435:0xbdec0b2e37e96a57!3m4!1m2!1d-0.1428321!2d51.5067847!3s0x487605284c0e0c25:0xb079231ef0fdf241!3m4!1m2!1d-0.1419703!2d51.5051469!3s0x4876052812206ee7:0xe6c2dbb360a550d4!3m4!1m2!1d-0.1425496!2d51.5033807!3s0x48760527c3ef4393:0xc76957009896c732!3m4!1m2!1d-0.1411736!2d51.502678!3s0x48760527895c10e1:0xa4dfe096f280604!3m4!1m2!1d-0.1400851!2d51.5020686!3s0x487604d87b636697:0x7b4a2f0038316948!3m4!1m2!1d-0.1414041!2d51.5017108!3s0x487605279d32ac1f:0x936c086b731c2dd5!1m0!3e2?hl=en&hl=en</url-->
+    <time>2016-07-15T06:49:31Z</time>
+  </metadata>
+  <wpt lat="51.510045" lon="-0.1348671">
+    <name>1 Piccadilly Circus</name>
+    <desc>1 Piccadilly Circus, London W1J 0DA, UK</desc>
+    <time>2016-07-15T06:49:31Z</time>
+  </wpt>
+  <wpt lat="51.5100651" lon="-0.1349263">
+    <name>WP001</name>
+    <time>2016-07-15T06:49:34Z</time>
+  </wpt>
+  <wpt lat="51.5098316" lon="-0.1348201">
+    <name>WP002</name>
+    <time>2016-07-15T06:49:37Z</time>
+  </wpt>
+  <wpt lat="51.5092316" lon="-0.1343291">
+    <name>WP003</name>
+    <time>2016-07-15T06:49:40Z</time>
+  </wpt>
+  <wpt lat="51.5085002" lon="-0.1364548">
+    <name>WP004</name>
+    <time>2016-07-15T06:49:43Z</time>
+  </wpt>
+  <wpt lat="51.5075654" lon="-0.1356097">
+    <name>WP005</name>
+    <time>2016-07-15T06:49:46Z</time>
+  </wpt>
+  <wpt lat="51.507376" lon="-0.1348057">
+    <name>WP006</name>
+    <time>2016-07-15T06:49:49Z</time>
+  </wpt>
+  <wpt lat="51.5072879" lon="-0.1350292">
+    <name>WP007</name>
+    <time>2016-07-15T06:49:52Z</time>
+  </wpt>
+  <wpt lat="51.5070889" lon="-0.135642">
+    <name>WP008</name>
+    <time>2016-07-15T06:49:55Z</time>
+  </wpt>
+  <wpt lat="51.5065851" lon="-0.1370584">
+    <name>WP009</name>
+    <time>2016-07-15T06:49:58Z</time>
+  </wpt>
+  <wpt lat="51.508457" lon="-0.1388834">
+    <name>WP010</name>
+    <time>2016-07-15T06:50:01Z</time>
+  </wpt>
+  <wpt lat="51.5075423" lon="-0.141333">
+    <name>WP011</name>
+    <time>2016-07-15T06:50:04Z</time>
+  </wpt>
+  <wpt lat="51.5074555" lon="-0.1412674">
+    <name>WP012</name>
+    <time>2016-07-15T06:50:07Z</time>
+  </wpt>
+  <wpt lat="51.5077616" lon="-0.1405535">
+    <name>WP013</name>
+    <time>2016-07-15T06:50:10Z</time>
+  </wpt>
+  <wpt lat="51.5055344" lon="-0.138339">
+    <name>WP014</name>
+    <time>2016-07-15T06:50:13Z</time>
+  </wpt>
+  <wpt lat="51.5051358" lon="-0.1379768">
+    <name>WP015</name>
+    <time>2016-07-15T06:50:16Z</time>
+  </wpt>
+  <wpt lat="51.504508" lon="-0.139249">
+    <name>WP016</name>
+    <time>2016-07-15T06:50:19Z</time>
+  </wpt>
+  <wpt lat="51.504296" lon="-0.140376">
+    <name>WP017</name>
+    <time>2016-07-15T06:50:22Z</time>
+  </wpt>
+  <wpt lat="51.5069495" lon="-0.1424874">
+    <name>WP018</name>
+    <time>2016-07-15T06:50:25Z</time>
+  </wpt>
+  <wpt lat="51.5057871" lon="-0.1446439">
+    <name>WP019</name>
+    <time>2016-07-15T06:50:28Z</time>
+  </wpt>
+  <wpt lat="51.5056989" lon="-0.1443469">
+    <name>WP020</name>
+    <time>2016-07-15T06:50:31Z</time>
+  </wpt>
+  <wpt lat="51.5044817" lon="-0.1418371">
+    <name>WP021</name>
+    <time>2016-07-15T06:50:34Z</time>
+  </wpt>
+  <wpt lat="51.5062909" lon="-0.1422095">
+    <name>WP022</name>
+    <time>2016-07-15T06:50:37Z</time>
+  </wpt>
+  <wpt lat="51.5063483" lon="-0.1422877">
+    <name>WP023</name>
+    <time>2016-07-15T06:50:40Z</time>
+  </wpt>
+  <wpt lat="51.5063689" lon="-0.1422628">
+    <name>WP024</name>
+    <time>2016-07-15T06:50:43Z</time>
+  </wpt>
+  <wpt lat="51.5063512" lon="-0.142159">
+    <name>WP025</name>
+    <time>2016-07-15T06:50:46Z</time>
+  </wpt>
+  <wpt lat="51.5036553" lon="-0.1417817">
+    <name>WP026</name>
+    <time>2016-07-15T06:50:49Z</time>
+  </wpt>
+  <wpt lat="51.503603" lon="-0.1427985">
+    <name>WP027</name>
+    <time>2016-07-15T06:50:52Z</time>
+  </wpt>
+  <wpt lat="51.5033807" lon="-0.1425496">
+    <name>WP028</name>
+    <time>2016-07-15T06:50:55Z</time>
+  </wpt>
+  <wpt lat="51.502678" lon="-0.1411736">
+    <name>WP029</name>
+    <time>2016-07-15T06:50:58Z</time>
+  </wpt>
+  <wpt lat="51.5025795" lon="-0.1414359">
+    <name>WP030</name>
+    <time>2016-07-15T06:51:01Z</time>
+  </wpt>
+  <wpt lat="51.5021963" lon="-0.1411553">
+    <name>WP031</name>
+    <time>2016-07-15T06:51:04Z</time>
+  </wpt>
+  <wpt lat="51.5020686" lon="-0.1400851">
+    <name>WP032</name>
+    <time>2016-07-15T06:51:07Z</time>
+  </wpt>
+  <wpt lat="51.5016723" lon="-0.140069">
+    <name>WP033</name>
+    <time>2016-07-15T06:51:10Z</time>
+  </wpt>
+  <wpt lat="51.500989" lon="-0.1405329">
+    <name>WP034</name>
+    <time>2016-07-15T06:51:13Z</time>
+  </wpt>
+  <wpt lat="51.5022044" lon="-0.141971">
+    <name>WP035</name>
+    <time>2016-07-15T06:51:16Z</time>
+  </wpt>
+  <wpt lat="51.5020686" lon="-0.1400851">
+    <name>WP036</name>
+    <time>2016-07-15T06:51:19Z</time>
+  </wpt>
+  <wpt lat="51.5016723" lon="-0.140069">
+    <name>WP037</name>
+    <time>2016-07-15T06:51:22Z</time>
+  </wpt>
+  <wpt lat="51.5002135" lon="-0.1408962">
+    <name>WP038</name>
+    <time>2016-07-15T06:51:25Z</time>
+  </wpt>
+  <wpt lat="51.4984603" lon="-0.1436173">
+    <name>WP039</name>
+    <time>2016-07-15T06:51:28Z</time>
+  </wpt>
+  <wpt lat="51.4988769" lon="-0.1446897">
+    <name>15 Royal Mews</name>
+    <desc>15 Royal Mews, London SW1W 0QH, UK</desc>
+    <time>2016-07-15T06:51:31Z</time>
+  </wpt>
+</gpx>
